@@ -22,7 +22,7 @@ To write a java program for set the priority and name of the current thread.Cons
 /*
 Program to implement a Thread Priority Concept using Java
 Developed by: Preethi D
-RegisterNumber:  21222040250
+RegisterNumber:  212224040250
 */
 ```
 
@@ -63,4 +63,5 @@ public class TwoThreadPriority {
 
 ## RESULT:
 Multithreading was successfully implemented. Multiple threads executed by setting the priority, demonstrating proper thread creation.
+
 
